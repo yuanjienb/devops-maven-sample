@@ -6,7 +6,7 @@ metadata:
     app: kubesphere
     component: ks-sample-dev
     tier: backend
-  name: ks-sample-dev
+  name: test20250327
   namespace: $PROJECT_NAME
 spec:
   progressDeadlineSeconds: 600
